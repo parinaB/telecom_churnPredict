@@ -1,9 +1,9 @@
 # telecom_churnPredict
-ML Project: [Your Project Name]
+ML Project: Telecom_Churn
 Dataset
 The project uses the dataset available online:
-[Dataset Link]
-(e.g., Kaggle Telco Customer Churn dataset: https://www.kaggle.com/blastchar/telco-customer-churn)
+https://www.kaggle.com/code/emineyetm/telco-customer-churn
+(e.g., Kaggle Telco Customer Churn dataset)
 
 Note: No CSV is included in this repo; analysis is based on the online dataset.
 
